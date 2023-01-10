@@ -1,0 +1,20 @@
+//Writing in a Markdown file
+
+
+# is used for heading (no. of hash {h1 to h6}) <h1></h1>
+use blank line to seperate the paragraphs<p></p>
+Enter will break the like like <br/>
+** Text **  to bold the Text
+* Text * for Italic
+*** bold and italic ***
+> blockquotes
+>> nested blockquotes
+>- solid dot
+- abc unordered lists
+1.
+2. etc. for ordered lists
+commands in `Text`
+<URL>
+
+
+
